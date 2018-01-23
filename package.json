@@ -1,0 +1,23 @@
+{
+    "name": "Firestore",
+    "version": "0.0.3",
+    "versionDate": "2018-01-16",
+    "author": "hackolade",
+    "engines": {
+        "hackolade": "1.10.x",
+        "hackoladePlugin": "1.0.0"
+    },
+    "contributes": {
+        "target": {
+            "applicationTarget": "FIRESTORE",
+            "title": "Cloud Firestore",
+            "versions": []
+        },
+        "features": {
+            "nestedCollections": true
+        }
+    },
+    "description": "Hackolade plugin for Google Cloud Firestore",
+    "icon_url": "C:\\Users\\Pascal\\.hackolade\\plugins\\Firestore\\logo.jpg",
+    "disabled": false
+}
