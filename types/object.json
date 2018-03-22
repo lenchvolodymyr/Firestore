@@ -3,6 +3,7 @@
 	"erdAbbreviation": "<obj>",
 	"dtdAbbreviation": "{...}",
 	"parentType": "document",
+	"relatedTo": ["string"],
 	"defaultValues": {
 		"primaryKey": false,
 		"relationshipType": "",
