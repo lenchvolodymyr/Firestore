@@ -1,5 +1,5 @@
-# HBase
-Plugin to enable Apache HBase server as a target in Hackolade data modeling.
+# Google Cloud Firestore
+Plugin to enable Google Cloud Firestore as a target in Hackolade data modeling.
 
 <div class="main-content">
 
