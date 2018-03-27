@@ -15,7 +15,7 @@
         },
         "features": {
             "jaySchemaHasRequiredPatternField": true,
-            "nestedCollections": true
+            "nestedCollections": false
         }
     },
     "description": "Hackolade plugin for Google Cloud Firestore",
